@@ -12,14 +12,21 @@ Aspiring **Data Analyst** passionate about turning raw data into meaningful insi
 - **Visualization:** Power BI, Excel  
 - **Other:** Data Cleaning, Exploratory Data Analysis (EDA)
 
-- ## 📌 Featured Projects
+**- ## 📌 Featured Projects**
 - 
 ### 🔹 Excel Projects
 - [Sales Data Analysis (2020–2022) – Excel](https://github.com/Daniyal07420/Excel_Sales_Data-2020-2022-)  
   Analysis of three years of sales data using Excel, pivot tables, and dashboards.
-  ### 🔹 Python Projects
+
+- [Employee Productivity Analysis - Excel](https://github.com/Daniyal07420/Excel_Employee-Productivity)
+  An interactive Excel dashboard analyzing employee performance with KPIs, charts, and filters.
+  
+### 🔹 Python Projects
 - [Sales Data Analysis (2020–2022) – Python](https://github.com/Daniyal07420/Python_Sales_Data-2020-2022)  
   Data cleaning and visualization with pandas, numpy, and matplotlib.
+
+- [Employee Productivity Analysis - Excel](https://github.com/Daniyal07420/Python_Employee-Productivity)
+- Data analysis and visualization using Python (pandas, matplotlib, seaborn) with an automated dashboard.  
 
   
 🔗 Connect with Me  
