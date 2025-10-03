@@ -25,8 +25,8 @@ Aspiring **Data Analyst** passionate about turning raw data into meaningful insi
 - [Sales Data Analysis (2020–2022) – Python](https://github.com/Daniyal07420/Python_Sales_Data-2020-2022)  
   Data cleaning and visualization with pandas, numpy, and matplotlib.
 
-- [Employee Productivity Analysis - Excel](https://github.com/Daniyal07420/Python_Employee-Productivity)
-- Data analysis and visualization using Python (pandas, matplotlib, seaborn) with an automated dashboard.  
+- [Employee Productivity Analysis - Python](https://github.com/Daniyal07420/Python_Employee-Productivity)
+  Data analysis and visualization using Python (pandas, matplotlib, seaborn) with an automated dashboard.  
 
   
 🔗 Connect with Me  
