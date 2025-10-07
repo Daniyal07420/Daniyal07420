@@ -1,16 +1,28 @@
-👋 Hi, I'm Rana Daniyal  
-Aspiring **Data Analyst** passionate about turning raw data into meaningful insights.  
+# 👋 Hi, I'm Rana Daniyal  
 
-🚀 About Me  
-- 🌱 Currently learning: Python (Pandas, Numpy, Matplotlib, Seaborn), SQL, Power BI, Excel  
-- 📊 Interested in: Data Analysis, Business Intelligence, Visualization  
-- 🤝 Open to: Collaborations & Data Projects
+🎯 **Aspiring Data Analyst** passionate about turning raw data into meaningful insights through **Python, Excel, Power BI, and SQL**.  
+I love creating dashboards and visual stories that help in data-driven decision-making.  
 
-🛠️ Skills  
-- **Programming:** Python (Pandas, Numpy, Matplotlib, Seaborn)  
-- **Databases:** SQL  
-- **Visualization:** Power BI, Excel  
-- **Other:** Data Cleaning, Exploratory Data Analysis (EDA)
+---
+
+## 🧠 About Me
+- 📊 Currently working on real-world **Data Analysis Projects** using Python & Excel  
+- 🧩 Interested in **Business Intelligence, Data Visualization, and Predictive Analytics**  
+- 🎓 Constantly learning and improving my skills in **Power BI, SQL, and Python libraries (Pandas, NumPy, Matplotlib, Seaborn)**  
+- 💡 Focused on building an impactful portfolio with clean and interactive dashboards  
+
+---
+
+## 🧰 Skills
+| Category                   | Tools & Technologies                                     |
+|----------------------------|----------------------------------------------------------|
+| **Programming & Analysis** | Python (Pandas, NumPy, Matplotlib, Seaborn)              |
+| **Data Visualization**     | Excel Dashboards, Power BI                               |
+| **Database & Querying**    | SQL (MySQL / SQLite)                                     |
+| **Version Control**        | Git & GitHub                                             |
+| **Soft Skills**            | Problem Solving, Data Cleaning, Reporting, Communication |
+
+---
 
 **- ## 📌 Featured Projects**
 - 
@@ -28,7 +40,10 @@ Aspiring **Data Analyst** passionate about turning raw data into meaningful insi
 - [Employee Productivity Analysis - Python](https://github.com/Daniyal07420/Python_Employee-Productivity)
   Data analysis and visualization using Python (pandas, matplotlib, seaborn) with an automated dashboard.  
 
+---
+
+## 📫 Connect With Me
+🌐 **GitHub:**    [Daniyal07420](https://github.com/Daniyal07420)  
+💼 **LinkedIn:**  [https://www.linkedin.com/in/rana-daniyal-720a43379/]  
+📧 **Email:**     daniyalinfo.com@gmail.com 
   
-🔗 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/rana-daniyal-720a43379/)  
-- [GitHub](https://github.com/Daniyal07420)  
