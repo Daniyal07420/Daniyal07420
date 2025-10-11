@@ -43,7 +43,7 @@ I love creating dashboards and visual stories that help in data-driven decision-
 ---
 
 ## 📫 Connect With Me
-🌐 **GitHub:**    [Daniyal07420](https://github.com/Daniyal07420)  
-💼 **LinkedIn:**  [https://www.linkedin.com/in/rana-daniyal-720a43379/]  
+🌐 **GitHub:**    https://github.com/Daniyal07420
+💼 **LinkedIn:**  https://www.linkedin.com/in/rana-daniyal-720a43379/ 
 📧 **Email:**     daniyalinfo.com@gmail.com 
   
