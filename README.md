@@ -32,29 +32,29 @@ I enjoy creating dashboards, visual stories, and automation scripts using modern
 #### **1. Sales Data Analysis (2020–2022) – Excel**
 - Cleaned and analyzed 3 years of sales data  
 - Built interactive Excel dashboard with KPIs, charts, and pivot tables  
-- *(Upload link here)*  
+- *(https://github.com/Daniyal07420/Excel_Sales_Data-2020-2022-)*  
 
 #### **2. Employee Productivity Analysis – Excel**  
 - Designed dashboard to track performance trends  
 - Included slicers, charts, and team comparison  
-
+- *(https://github.com/Daniyal07420/Excel_Employee-Productivity)*
 ---
 
 ### 🔹 **Python Projects**
 #### **1. Sales Data Analysis (2020–2022) – Python**
 - Data cleaning using Pandas  
 - Visualizations with Matplotlib & Seaborn  
-- Automated insights script  
-
+- Automated insights script
+- *(https://github.com/Daniyal07420/Python_Sales_Data-2020-2022)*
 #### **2. Employee Productivity Analysis – Python**
 - Exploratory data analysis  
 - Multi-chart visualization  
-- Automated dashboard using Python  
+- Automated dashboard using Python
+- *(https://github.com/Daniyal07420/Python_Employee-Productivity)*
 
 ---
 
 ## 🔄 Currently Learning  
-- Power BI dashboards  
 - Advanced SQL queries  
 - Predictive analytics (Regression, Forecasting)
 
