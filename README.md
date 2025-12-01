@@ -46,7 +46,7 @@ End-to-end analysis covering **case trends, death ratios, continent comparisons,
 
 ## 🧰 Tech Stack
 - **Power BI | Python | SQL | Excel**  
-- **Pandas | NumPy | Matplotlib**  
+- **Pandas | NumPy | Matplotlib | Seaborn**  
 - **VS Code | GitHub | Jupyter Notebook**
 
 ---
