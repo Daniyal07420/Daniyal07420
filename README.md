@@ -1,4 +1,4 @@
-                                                                # 👋 Hi, I'm Rana Daniyal
+                                                                   # 👋 Hi, I'm Rana Daniyal
                                                ## 🚀 Junior Data Analyst | Power BI Developer | Software Engineer
 ---
 
