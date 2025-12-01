@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Rana Daniyal
-## 🚀 Junior Data Analyst | Power BI Developer | Software Engineer
+                                                                         # 👋 Hi, I'm Rana Daniyal
+                                                     ## 🚀 Junior Data Analyst | Power BI Developer | Software Engineer
 ---
 
 I have completed my Intermediate in Computer Science (ICS), where I built a strong foundation in programming, algorithms, and problem-solving with hands-on experience in C++. I further enhanced my technical skills through a Diploma in Python Programming, covering Python, HTML5, CSS3, JavaScript, Django, and Flask. This combination of academic knowledge and practical training has strengthened my ability to develop modern applications and work confidently across both software and web technologies.
