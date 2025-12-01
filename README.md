@@ -25,13 +25,13 @@ With strong experience in **Power BI dashboards, Python-based analysis, SQL quer
 
 ## 📂 Featured Projects
 
-### 🎮 1. Global Video Game Sales Analysis (Power BI)
+### 🎮 1. Global Video Game Sales Analysis (Excel + Python + Power BI)
 An interactive Power BI dashboard analyzing **genre performance, platform comparison, publisher trends, year-wise growth, and regional sales insights**.  
 **Skills Applied:** Power BI, Python, Excel, Data Visualization, KPI Reporting
 
 ---
 
-### 🦠 2. COVID-19 Dataset Analysis (Python + Power BI)
+### 🦠 2. COVID-19 Dataset Analysis (Excel + Python + Power BI)
 A complete analysis of global COVID-19 data focusing on **daily cases, deaths, recovery trends, continent-wise comparisons, and forecasting patterns**. Includes Python cleaning + Power BI dashboard.  
 **Skills Applied:** Python (Pandas, NumPy), Data Cleaning, Power BI, Visualization, Trend Analysis
 
@@ -45,9 +45,9 @@ A complete analysis of global COVID-19 data focusing on **daily cases, deaths, r
 ---
 
 ## 📬 Connect with Me
-📧 **daniyalinfo.com@gmail.com**  
-📱 **+92 3215414483**  
-🔗 **LinkedIn: https://www.linkedin.com/in/rana-daniyal-720a43379/**  
+📧 **Email:           daniyalinfo.com@gmail.com**  
+📱 **Mobile/Whatsapp: +92 3215414483**  
+🔗 **LinkedIn:        https://www.linkedin.com/in/rana-daniyal-720a43379/**  
 
 ---
 
