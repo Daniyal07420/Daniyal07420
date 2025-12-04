@@ -4,11 +4,11 @@
 
 I have completed my Intermediate in Computer Science (ICS), where I built a strong foundation in programming, algorithms, and problem-solving with hands-on experience in C++. I further enhanced my technical skills through a Diploma in Python Programming, covering Python, HTML5, CSS3, JavaScript, Django, and Flask. This combination of academic knowledge and practical training has strengthened my ability to develop modern applications and work confidently across both software and web technologies.
 
-🌐 **My Portfolio**  
+🌐 **My Portfolio**                        https://www.datascienceportfol.io/daniyalinfocom
 
 💬 **Ask me about**                        Python, SQL, Excel, Power BI
 
-👨‍💻 **All of my projects are available at** https://www.datascienceportfol.io/daniyalinfocom 
+👨‍💻 **All of my projects are available at** https://github.com/Daniyal07420?tab=repositories
 
 🚀 **Know about my experiences**           https://www.linkedin.com/in/rana-daniyal-720a43379/ 
 
