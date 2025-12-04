@@ -40,7 +40,11 @@ A deep-dive dashboard showing **genre trends, platforms, publisher performance, 
 
 ### 🦠 2. COVID-19 Dataset Analysis (Python + Power BI)
 End-to-end analysis covering **case trends, death ratios, continent comparisons, forecasting and insights**.  
-**Skills:** Python (Pandas, NumPy), Power BI, Cleaning, Trend Analysis  
+**Skills:** Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Cleaning, Trend Analysis  
+
+### 🧠 3. Student Mental Health & Depression Analysis (Power BI Dashboard)
+A modern, insight-driven Power BI dashboard presenting a complete analysis of student mental health and depression factors. Features clean KPIs, interactive filters, city-level insights, academic pressure trends, lifestyle correlations, and visual storytelling for informed decision-making.
+**Skills:** Power BI, Python, Excel, Data Visualization 
 
 ---
 
