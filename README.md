@@ -50,7 +50,7 @@ A modern, insight-driven Power BI dashboard presenting a complete analysis of st
 A complete end-to-end data analytics project exploring global music patterns using Spotify audio features.
 Includes Python-based data cleaning & exploratory analysis, feature correlation insights, and an interactive Power BI dashboard visualizing popularity drivers, audio characteristics, top artists, and listening trends.
 This project demonstrates strong skills in data preprocessing, visualization, Power BI development, and analytical storytelling—ideal for data analytics, BI, and data science portfolios.
-
+**Skills:** Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Cleaning, Trend Analysis
 ---
 
 ## 🧰 Tech Stack
