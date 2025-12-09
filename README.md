@@ -43,13 +43,11 @@ End-to-end analysis covering **case trends, death ratios, continent comparisons,
 **Skills:** Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Cleaning, Trend Analysis  
 
 ### 🧠 3. Student Mental Health & Depression Analysis | Power BI Dashboard
-A modern, insight-driven Power BI dashboard presenting a complete analysis of student mental health and depression factors. Features clean KPIs, interactive filters, city-level insights, academic pressure trends, lifestyle correlations, and visual storytelling for informed decision-making.
+A modern, insight-driven Power BI dashboard presenting a complete analysis of student mental health and depression factors. Features clean KPIs, interactive filters, city-level insights, academic pressure trends, lifestyle correlations, and visual storytelling for informed decision-making.**
 **Skills:** Power BI, Python, Excel, Data Visualization 
 
 ### 🎵 4. Spotify Music Insights & Trend Analysis | Python + Power BI
-A complete end-to-end data analytics project exploring global music patterns using Spotify audio features.
-Includes Python-based data cleaning & exploratory analysis, feature correlation insights, and an interactive Power BI dashboard visualizing popularity drivers, audio characteristics, top artists, and listening trends.
-This project demonstrates strong skills in data preprocessing, visualization, Power BI development, and analytical storytelling—ideal for data analytics, BI, and data science portfolios.
+A complete end-to-end analytics project exploring global music trends using Spotify audio features. Includes Python-based data cleaning, exploratory data analysis (EDA), visualization, feature correlation, and an interactive Power BI dashboard showcasing popularity drivers, audio patterns, and artist performance.**
 **Skills:** Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Cleaning, Trend Analysis
 ---
 
