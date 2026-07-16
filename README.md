@@ -1,63 +1,171 @@
- # 👋 Hi, I'm Rana Daniyal
-## 🚀 Junior Data Analyst | Power BI Developer | Software Engineer
----
+<div align="center">
 
-I have completed my Intermediate in Computer Science (ICS), where I built a strong foundation in programming, algorithms, and problem-solving with hands-on experience in C++. I further enhanced my technical skills through a Diploma in Python Programming, covering Python, HTML5, CSS3, JavaScript, Django, and Flask. This combination of academic knowledge and practical training has strengthened my ability to develop modern applications and work confidently across both software and web technologies.
+# 👋 Hi, I'm Rana Daniyal
 
-🌐 **My Portfolio**                        https://www.datascienceportfol.io/daniyalinfocom
+### Aspiring Data Analyst | Python Developer | Power BI Developer
 
-💬 **Ask me about**                        Python, SQL, Excel, Power BI
+<p>
+  <a href="https://www.linkedin.com/in/rana-daniyal-720a43379/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Daniyal07420">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.datascienceportfol.io/daniyalinfocom">
+    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:daniyalinfo.com@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-👨‍💻 **All of my projects are available at** https://github.com/Daniyal07420?tab=repositories
+<img src="https://komarev.com/ghpvc/?username=Daniyal07420&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-🚀 **Know about my experiences**           https://www.linkedin.com/in/rana-daniyal-720a43379/ 
-
-📧 **How to reach me**                     daniyalinfo.com@gmail.com
-
----
-
-### 📊 Data Analyst | Power BI Developer | Python & SQL Enthusiast
-
-I’m a detail-oriented **Data Analyst** passionate about transforming data into actionable insights.  
-I specialize in **Power BI dashboards, Python analytics, SQL queries, and Excel data cleaning**, helping businesses understand trends and make informed decisions.
-
----
-
-## 🚀 What I Do
-- Create **interactive dashboards** in Power BI  
-- Perform **EDA, cleaning & automation** using Python  
-- Write optimized **SQL queries** for analytics  
-- Develop **KPI-based reports** for business decisions  
-- Deliver clean, visual & meaningful **data stories**
+</div>
 
 ---
 
-## 📂 Featured Projects
+# 💡 About Me
 
-### ⚽ 1. FIFA World Cup 2022 Player Performance Analysis
-A professional sports analytics project built with Python that analyzes FIFA World Cup 2022 player performance using data cleaning, exploratory data analysis (EDA), statistical analysis, and data visualization.
+🎓 **Bachelor of Business & Information Technology (BBIT)** *(2023 – Present)*  
+**University of Okara, Pakistan** *(Currently Pursuing)*
 
-**Key Highlights**
-- 📊 End-to-end Data Analysis
-- 🧹 Data Cleaning & Preprocessing
-- 📈 Exploratory Data Analysis (EDA)
-- ⚽ Player & Team Performance Analysis
-- 📉 Correlation & Trend Analysis
-- 📋 Professional Visualizations
-  
+🎓 Intermediate in Computer Science (ICS)
+
+🎓 Diploma in Python Programming
+
+I'm an aspiring **Data Analyst** passionate about transforming raw data into actionable business insights using **Python, SQL, Excel, and Power BI**.
+
+I enjoy solving real-world business problems through:
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Business Intelligence
+- Dashboard Development
+- Data Visualization
+
+Currently building real-world portfolio projects to prepare for international Data Analyst opportunities.
+
+---
+
+# 🚀 Featured Projects
+
+## ⚽ FIFA World Cup 2022 Player Performance Analysis
+
+Professional sports analytics project using Python.
+
+### Highlights
+
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Descriptive Statistics
+- Correlation Analysis
+- Trend Analysis
+- Player Performance Analysis
+- Team Performance Analysis
+- Position-wise Analysis
+- Professional Visualizations
+
 **Tech Stack**
+
 Python • Pandas • NumPy • Matplotlib • Seaborn • Git • GitHub
 
-**🔗 Repository:**
+🔗 Repository
+
 https://github.com/Daniyal07420/FIFA-World-Cup-2022-Player-Performance-Analysis
-
-------
-
-## 🧰 Tech Stack
-- **Power BI | Python | SQL | Excel**  
-- **Pandas | NumPy | Matplotlib | Seaborn**  
-- **VS Code | GitHub | Jupyter Notebook**
 
 ---
 
-⭐ *Thanks for visiting! Explore my projects or connect for data-driven solutions.*
+## 🌍 Global Economic Performance Dashboard
+
+Python-based economic data analysis project exploring global economic indicators with professional visualizations and business insights.
+
+---
+
+## 📊 Customer Churn Analysis
+
+End-to-end customer churn analysis using Python and data visualization techniques to identify customer retention patterns.
+
+---
+
+# 🛠 Tech Stack
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+</p>
+
+### Data Analytics
+
+- Python
+- SQL
+- Excel
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Daniyal07420&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyal07420&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Daniyal07420&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Daniyal07420&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+daniyalinfo.com@gmail.com
+
+🌐 **Portfolio**
+
+https://www.datascienceportfol.io/daniyalinfocom
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/rana-daniyal-720a43379/
+
+🐙 **GitHub**
+
+https://github.com/Daniyal07420
+
+---
+
+<div align="center">
+
+### ⭐ Thank you for visiting my profile!
+
+*"Turning data into meaningful insights through analytics, visualization, and continuous learning."*
+
+</div>
