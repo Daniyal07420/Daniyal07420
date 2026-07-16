@@ -34,23 +34,7 @@ I specialize in **Power BI dashboards, Python analytics, SQL queries, and Excel 
 
 ## 📂 Featured Projects
 
-### 🎮 1. Global Video Game Sales Analysis | Power BI
-A deep-dive dashboard showing **genre trends, platforms, publisher performance, and regional sales insights. 
-**Skills:** Power BI, Python, Excel, Data Visualization  
-
-### 🦠 2. COVID-19 Dataset Analysis | Python + Power BI
-End-to-end analysis covering **case trends, death ratios, continent comparisons, forecasting and insights. 
-**Skills:** Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Cleaning, Trend Analysis  
-
-### 🧠 3. Student Mental Health & Depression Analysis | Power BI Dashboard
-A modern, insight-driven Power BI dashboard presenting a complete analysis of student mental health and depression factors. Features clean KPIs, interactive filters, city-level insights, academic pressure trends, lifestyle correlations, and visual storytelling for informed decision-making.
-**Skills:** Power BI, Python, Excel, Data Visualization 
-
-### 🎵 4. Spotify Music Insights & Trend Analysis | Python + Power BI
-A complete end-to-end analytics project exploring global music trends using Spotify audio features. Includes Python-based data cleaning, exploratory data analysis (EDA), visualization, feature correlation, and an interactive Power BI dashboard showcasing popularity drivers, audio patterns, and artist performance.
-**Skills:**  Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Data Cleaning, Exploratory Data Analysis (EDA), Trend Analysis, Data Visualization, KPI Development, Business Analytics
-
-### ⚽ 5. FIFA World Cup 2022 Player Performance Analysis
+### ⚽ 1. FIFA World Cup 2022 Player Performance Analysis
 A professional sports analytics project built with Python that analyzes FIFA World Cup 2022 player performance using data cleaning, exploratory data analysis (EDA), statistical analysis, and data visualization.
 
 **Key Highlights**
