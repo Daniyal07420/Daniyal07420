@@ -52,6 +52,7 @@ A complete end-to-end analytics project exploring global music trends using Spot
 
 ### ⚽ 5. FIFA World Cup 2022 Player Performance Analysis
 A professional sports analytics project built with Python that analyzes FIFA World Cup 2022 player performance using data cleaning, exploratory data analysis (EDA), statistical analysis, and data visualization.
+
 **Key Highlights**
 - 📊 End-to-end Data Analysis
 - 🧹 Data Cleaning & Preprocessing
@@ -59,8 +60,10 @@ A professional sports analytics project built with Python that analyzes FIFA Wor
 - ⚽ Player & Team Performance Analysis
 - 📉 Correlation & Trend Analysis
 - 📋 Professional Visualizations
+  
 **Tech Stack**
 Python • Pandas • NumPy • Matplotlib • Seaborn • Git • GitHub
+
 **🔗 Repository:**
 https://github.com/Daniyal07420/FIFA-World-Cup-2022-Player-Performance-Analysis
 
