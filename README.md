@@ -86,18 +86,6 @@ https://github.com/Daniyal07420/FIFA-World-Cup-2022-Player-Performance-Analysis
 
 ---
 
-### 🌍 Global Economic Performance Dashboard
-
-Analyzed worldwide economic indicators and created meaningful visualizations to identify long-term economic trends.
-
----
-
-### 📊 Customer Churn Analysis
-
-Performed customer behavior analysis to identify churn patterns using Python and data visualization techniques.
-
----
-
 # 💻 Tech Stack
 
 ### Languages
