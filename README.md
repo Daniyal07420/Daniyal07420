@@ -44,7 +44,7 @@ Currently, I'm expanding my portfolio by building real-world analytics projects 
 
 ---
 
-## 🎓 Education & Certifications
+# 🎓 Education & Certifications
 
 <table>
   <tr>
