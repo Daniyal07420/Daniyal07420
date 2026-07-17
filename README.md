@@ -109,7 +109,7 @@ Python • Pandas • NumPy • Matplotlib • Seaborn
 
 🔗 Repository
 
-https://github.com/Daniyal07420/FIFA-World-Cup-2022-Player-Performance-Analysis
+**[View Project Repository on GitHub](https://github.com/Daniyal07420/FIFA-World-Cup-2022-Player-Performance-Analysis)**
 
 ---
 
