@@ -32,15 +32,27 @@
 
 ---
 
-# 💡 About Me
+# 👤 About Me
 
-I'm **Rana Daniyal**, an aspiring **Data Analyst** currently pursuing a **Bachelor of Business & Information Technology (BBIT)** at the **University of Okara (2023 – Present)**.
+<table border="0">
+  <tr>
+    <td width="75%" valign="top">
+      <h3>🚀 Turning Raw Data into Actionable Business Insights</h3>
+      <p>
+        I am a data-driven <b>Data Analyst</b> and <b>Python Developer</b> with a strong foundation in Business & Information Technology. My expertise lies in bridging the gap between complex data and strategic business decisions by building automated data pipelines, conducting deep exploratory data analysis (EDA), and creating high-impact visual dashboards.
+      </p>
+      <p>
+        Currently, I am expanding my global portfolio by working on end-to-end data engineering and analytics projects, focusing on scalable and modern data technologies to help international teams optimize their operations.
+      </p>
+    </td>
+  </tr>
+</table>
 
-I enjoy transforming raw data into meaningful insights that help organizations make better business decisions. My primary expertise lies in **Python, SQL, Excel, and Power BI**, where I build complete analytics solutions—from data cleaning and exploratory analysis to interactive dashboards and professional visualizations.
-
-I believe that data tells a story, and my goal is to uncover that story through analytical thinking, statistical analysis, and business intelligence.
-
-Currently, I'm expanding my portfolio by building real-world analytics projects and continuously learning modern data technologies to prepare for international Data Analyst opportunities.
+### 🎯 What I Bring to Your Team
+* **📊 Advanced Data Analytics:** Expert in data cleaning, statistical modeling, and correlation analysis using Python (Pandas, NumPy).
+* **💡 Business Intelligence:** Proficient in designing interactive, executive-ready dashboards in Power BI and Excel that track KPIs and drive revenue.
+* **⚡ Automation & Engineering:** Skilled in writing clean, reusable Python scripts to automate boring data workflows and ETL processes.
+* **🌍 Remote-Ready Communicator:** Capable of translating technical data findings into clear, non-technical business recommendations for cross-functional global teams.
 
 ---
 
