@@ -123,14 +123,14 @@ Jupyter Notebook
 
 <p align="center">
 
-<!-- GITHUB EXTRA METRICS BADGES (Highly Stable) -->
+Stable) -->
 <p align="left">
   <img src="https://img.shields.io/github/followers/Daniyal07420?label=Followers&style=for-the-badge&color=2ea44f" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Daniyal07420/FIFA-World-Cup-2022-Player-Performance-Analysis?style=for-the-badge&color=dfb317" alt="Project Stars" />
 </p>
 
 <!-- DYNAMIC SKILLS & ACTIVITY CARD -->
-### ⚡ GitHub Profile Insights
+# ⚡ GitHub Profile Insights
 ![Daniyal's GitHub Metrics](https://metrics.lecoq.io/Daniyal07420?template=classic&base=header,activity,community&config.timezone=Asia/Karachi)
 
 </p>
