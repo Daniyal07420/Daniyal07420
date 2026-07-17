@@ -118,11 +118,20 @@ Jupyter Notebook
 
 ---
 
-# 🏆 My GitHub Trophies
+
+# 🏅 GitHub Activity Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Daniyal07420&theme=radical&margin-w=15&margin-h=15" alt="Daniyal's Trophies" />
+<!-- GITHUB EXTRA METRICS BADGES (Highly Stable) -->
+<p align="left">
+  <img src="https://img.shields.io/github/followers/Daniyal07420?label=Followers&style=for-the-badge&color=2ea44f" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Daniyal07420/FIFA-World-Cup-2022-Player-Performance-Analysis?style=for-the-badge&color=dfb317" alt="Project Stars" />
+</p>
+
+<!-- DYNAMIC SKILLS & ACTIVITY CARD -->
+### ⚡ GitHub Profile Insights
+![Daniyal's GitHub Metrics](https://metrics.lecoq.io/Daniyal07420?template=classic&base=header,activity,community&config.timezone=Asia/Karachi)
 
 </p>
 
