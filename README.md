@@ -44,15 +44,30 @@ Currently, I'm expanding my portfolio by building real-world analytics projects 
 
 ---
 
-# 🎓 Education
+## 🎓 Education & Certifications
 
-**Bachelor of Business & Information Technology (BBIT)** *(2023 – Present)*
-
-🏛 University of Okara *(Currently Pursuing)*
-
-**Intermediate in Computer Science (ICS)**
-
-**Diploma in Python Programming**
+<table>
+  <tr>
+    <th align="left">Degree / Certification</th>
+    <th align="left">Institution / University</th>
+    <th align="left">Duration / Status</th>
+  </tr>
+  <tr>
+    <td><b>💻 Bachelor of Business & Information Technology (BBIT)</b></td>
+    <td>University of Okara</td>
+    <td><sub>2023 - Present (Currently Pursuing)</sub></td>
+  </tr>
+  <tr>
+    <td><b>📜 Diploma in Python Programming</b></td>
+    <td>Azaid chaiwala institute Lahore</td>
+    <td><sub>10/2023 - 02/2024 (Completed)</sub></td>
+  </tr>
+  <tr>
+    <td><b>🧪 Intermediate in Computer Science (ICS)</b></td>
+    <td>Punjab Group Of College</td>
+    <td><sub>2021 - 2023 (Completed)</sub></td>
+  </tr>
+</table>
 
 ---
 
