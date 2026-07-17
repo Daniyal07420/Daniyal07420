@@ -127,6 +127,8 @@ Jupyter Notebook
   <img src="https://img.shields.io/github/stars/Daniyal07420/FIFA-World-Cup-2022-Player-Performance-Analysis?style=for-the-badge&color=dfb317" alt="Project Stars" />
 </p>
 
+---
+
 <!-- DYNAMIC SKILLS & ACTIVITY CARD -->
 # ⚡ GitHub Profile Insights
 ![Daniyal's GitHub Metrics](https://metrics.lecoq.io/Daniyal07420?template=classic&base=header,activity,community&config.timezone=Asia/Karachi)
