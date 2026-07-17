@@ -118,6 +118,10 @@ Jupyter Notebook
 
 ---
 
+### 🏆 My GitHub Trophies
+
+[![github cards](https://github-profile-trophy.vercel.app/?username=Daniyal07420&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 # 🔥 GitHub Streak
 
 <p align="center">
