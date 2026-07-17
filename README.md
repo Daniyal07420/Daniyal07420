@@ -86,35 +86,27 @@ https://github.com/Daniyal07420/FIFA-World-Cup-2022-Player-Performance-Analysis
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack & Skills
 
-### Languages
+## 🗄️ Languages & Core Analytics
+⛓️ [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+⛓️ [![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
-Python • SQL
+## 📊 Data Visualization & BI Tools
+⛓️ [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+⛓️ [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
 
-### Data Analytics
+## 🐼 Data Science Libraries
+⛓️ [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+⛓️ [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+⛓️ [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
+⛓️ [![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
 
-Power BI
-
-Excel
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-### Tools
-
-Git
-
-GitHub
-
-VS Code
-
-Jupyter Notebook
+## 🔧 Developer Tools
+⛓️ [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+⛓️ [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+⛓️ [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+⛓️ [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 ---
 
