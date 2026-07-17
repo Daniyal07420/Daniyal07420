@@ -123,7 +123,6 @@ Jupyter Notebook
 
 <p align="center">
 
-Stable) -->
 <p align="left">
   <img src="https://img.shields.io/github/followers/Daniyal07420?label=Followers&style=for-the-badge&color=2ea44f" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Daniyal07420/FIFA-World-Cup-2022-Player-Performance-Analysis?style=for-the-badge&color=dfb317" alt="Project Stars" />
