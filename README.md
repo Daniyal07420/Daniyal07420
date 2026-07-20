@@ -168,7 +168,7 @@ Python • Pandas • NumPy • Matplotlib • Seaborn
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Daniyal07420&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Daniyal07420&theme=tokyonight&hide_border=true"/> 
 
 </p>
 
