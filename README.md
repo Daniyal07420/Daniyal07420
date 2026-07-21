@@ -2,21 +2,21 @@
 
 # 👋 Hi, I'm Rana Daniyal
 
-### **Aspiring Data Analyst | Python Developer | Power BI Developer**
+### 📊 Data Analyst | Python Developer | Power BI Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Transforming+Data+Into+Business+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Data+Analytics+%7C+EDA+%7C+Visualization;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Turning+Raw+Data+Into+Business+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Data+Analytics+%7C+EDA+%7C+Visualization;Building+Data+Driven+Solutions;Open+to+Remote+Opportunities"/>
 
 <br>
 
-<a href="https://www.linkedin.com/in/rana-daniyal-720a43379/">
+<a href="https://www.linkedin.com/in/rana-daniyal-720a43379/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Daniyal07420">
+<a href="https://github.com/Daniyal07420" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.datascienceportfol.io/daniyalinfocom">
+<a href="https://www.datascienceportfol.io/daniyalinfocom" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
@@ -32,147 +32,284 @@
 
 ---
 
-# 👤 About Me
+# 👨‍💻 About Me
 
-<table border="0">
-  <tr>
-    <td width="75%" valign="top">
-      <h3>🚀 Turning Raw Data into Actionable Business Insights</h3>
-      <p>
-        I am a data-driven <b>Data Analyst</b> and <b>Python Developer</b> with a strong foundation in Business & Information Technology. My expertise lies in bridging the gap between complex data and strategic business decisions by building automated data pipelines, conducting deep exploratory data analysis (EDA), and creating high-impact visual dashboards.
-      </p>
-      <p>
-        Currently, I am expanding my global portfolio by working on end-to-end data engineering and analytics projects, focusing on scalable and modern data technologies to help international teams optimize their operations.
-      </p>
-    </td>
-  </tr>
-</table>
+I'm **Rana Daniyal**, a passionate **Data Analyst** with expertise in transforming raw data into meaningful business insights.
 
-### 🎯 What I Bring to Your Team
-* **📊 Advanced Data Analytics:** Expert in data cleaning, statistical modeling, and correlation analysis using Python (Pandas, NumPy).
-* **💡 Business Intelligence:** Proficient in designing interactive, executive-ready dashboards in Power BI and Excel that track KPIs and drive revenue.
-* **⚡ Automation & Engineering:** Skilled in writing clean, reusable Python scripts to automate boring data workflows and ETL processes.
-* **🌍 Remote-Ready Communicator:** Capable of translating technical data findings into clear, non-technical business recommendations for cross-functional global teams.
+I enjoy solving real-world business problems using **Python, SQL, Excel, and Power BI** by performing data cleaning, exploratory data analysis (EDA), dashboard development, and business intelligence reporting.
+
+Currently pursuing my **Bachelor of Business & Information Technology (BBIT)** while continuously building practical analytics projects and expanding my expertise in modern data technologies.
 
 ---
 
-# 🎓 Education & Certifications
+# 🚀 Current Focus
 
-<table>
-  <tr>
-    <th align="left">Degree / Certification</th>
-    <th align="left">Institution / University</th>
-    <th align="left">Duration / Status</th>
-  </tr>
-  <tr>
-    <td><b>💻 Bachelor of Business & Information Technology (BBIT)</b></td>
-    <td>University of Okara</td>
-    <td><sub>2023 - Present (Currently Pursuing)</sub></td>
-  </tr>
-  <tr>
-    <td><b>📜 Diploma in Python Programming</b></td>
-    <td>Azaid chaiwala institute Lahore</td>
-    <td><sub>10/2023 - 02/2024 (Completed)</sub></td>
-  </tr>
-  <tr>
-    <td><b>🧪 Intermediate in Computer Science (ICS)</b></td>
-    <td>Punjab Group Of College</td>
-    <td><sub>2021 - 2023 (Completed)</sub></td>
-  </tr>
-</table>
+- 📊 Building End-to-End Data Analytics Projects
+- 📈 Creating Executive Power BI Dashboards
+- 🐍 Advanced Python for Data Analytics
+- 🗄️ SQL & Database Optimization
+- ☁️ Learning Data Engineering Fundamentals
+- 🤖 Preparing for Data Science & Machine Learning
+- 🌍 Open to Remote Data Analyst Opportunities
 
 ---
+
+# 💼 What I Can Do
+
+✔ Data Cleaning & Preprocessing
+
+✔ Exploratory Data Analysis (EDA)
+
+✔ Dashboard Development
+
+✔ KPI Reporting
+
+✔ Business Intelligence
+
+✔ Statistical Analysis
+
+✔ Data Visualization
+
+✔ Automation using Python
+
+✔ Business Reporting
+
+✔ ETL Workflows
+
+---
+
+# 🛠 Tech Stack
+
+### 👨‍💻 Programming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+### 📊 Data Analytics
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+</p>
+
+---
+
 
 # 🚀 Featured Projects
 
-### ⚽ FIFA World Cup 2022 Player Performance Analysis
+## 🏆 1. FIFA World Cup 2022 Player Performance Analysis
 
-Professional sports analytics project built using Python.
+📊 Comprehensive player performance analysis using Python to uncover offensive, defensive, and overall player insights from the FIFA World Cup 2022 dataset.
 
-✔ Data Cleaning
+### 🔹 Key Highlights
 
-✔ Exploratory Data Analysis
-
-✔ Statistical Analysis
- 
-✔ Correlation Analysis
-
-✔ Team Performance Analysis
-
-✔ Player Performance Analysis
-
-✔ Professional Visualizations
+- ✔ Data Cleaning & Preprocessing
+- ✔ Exploratory Data Analysis (EDA)
+- ✔ Statistical Analysis
+- ✔ Correlation Analysis
+- ✔ Offensive & Defensive Performance Analysis
+- ✔ Professional Visualizations
+- ✔ Business Insights
 
 **Tech Stack**
 
-Python • Pandas • NumPy • Matplotlib • Seaborn
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
-🔗 Repository
+🔗 **Repository**
 
-**[View Project Repository on GitHub](https://github.com/Daniyal07420/FIFA-World-Cup-2022-Player-Performance-Analysis)**
-
----
-
-# 🛠️ Tech Stack & Skills
-
-<p align="center">
-
-## 🗄️ Languages & Core Analytics
-⛓️ [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-⛓️ [![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-
-<p align="center">
-
-## 📊 Data Visualization & BI Tools
-⛓️ [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
-⛓️ [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
-
-<p align="center">
-  
-## 🐼 Data Science Libraries
-⛓️ [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-⛓️ [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-⛓️ [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
-⛓️ [![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
-
-<p align="center">
-  
-## 🔧 Developer Tools
-⛓️ [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-⛓️ [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-⛓️ [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-⛓️ [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+https://github.com/Daniyal07420/FIFA-World-Cup-2022-Player-Performance-Analysis
 
 ---
 
+## 🌍 2. Global Economic Performance Dashboard
 
-# 🏅 GitHub Activity Achievements
+Interactive Power BI dashboard analyzing global economic indicators to identify growth trends and support business decision-making.
+
+### 🔹 Key Highlights
+
+- GDP Analysis
+- Inflation Trends
+- Population Insights
+- Interactive Power BI Dashboard
+- KPI Reporting
+- Business Intelligence
+
+**Tech Stack**
+
+`Power BI` `Excel` `DAX` `Power Query`
+
+---
+
+## 🏦 3. Bank Marketing Campaign Analysis
+
+End-to-end data analytics project focused on customer behavior analysis and campaign performance.
+
+### 🔹 Key Highlights
+
+- Data Cleaning
+- Feature Engineering
+- Customer Segmentation
+- Campaign Analysis
+- Data Visualization
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy`
+
+---
+
+## 📈 4. Customer Churn Analysis
+
+Customer retention analytics project to identify factors influencing customer churn and provide actionable business recommendations.
+
+### 🔹 Key Highlights
+
+- Churn Analysis
+- Data Visualization
+- KPI Dashboard
+- Business Insights
+
+**Tech Stack**
+
+`Python` `Power BI`
+
+---
+
+## 🛒 5. Superstore Sales Dashboard
+
+Professional sales dashboard built in Power BI to monitor sales performance and profitability.
+
+### 🔹 Dashboard Includes
+
+- Sales KPIs
+- Regional Performance
+- Product Category Analysis
+- Profit Analysis
+- Customer Insights
+
+**Tech Stack**
+
+`Power BI` `Excel`
+
+---
+
+## 🧠 6. Student Depression Analysis
+
+Data analysis project exploring factors affecting student mental well-being using statistical analysis and visualizations.
+
+**Tech Stack**
+
+`Python` `Pandas` `Matplotlib`
+
+---
+
+# 🎓 Education
+
+| Degree | Institution | Status |
+|---------|------------|--------|
+| 🎓 Bachelor of Business & Information Technology (BBIT) | University of Okara | **2023 – Present** |
+| 💻 Diploma in Python Programming | Azad Chaiwala Institute | **Completed** |
+| 🖥️ Intermediate in Computer Science (ICS) | Punjab Group of Colleges | **Completed** |
+
+---
+
+# 🏅 Certifications
+
+🏆 **micro1 AI Certified Professional**
+
+- Successfully passed the micro1 AI Interview & Technical Evaluation
+- Certified for global remote opportunities
+- Skills validated in:
+  - Advanced Microsoft Excel
+  - Data Analysis
+  - Business Intelligence
+  - Problem Solving
+  - Communication
+
+---
+
+📜 **Python Programming Diploma**
+
+Azad Chaiwala Institute
+
+Topics Covered:
+
+- Python Programming
+- HTML
+- CSS
+- JavaScript
+- Django
+- Flask
+
+---
+
+# 💼 Experience
+
+## 💻 Freelance Data Analyst
+
+**Duration:** June 2025 – Present
+
+### Responsibilities
+
+- Data Cleaning & Transformation
+- Dashboard Development
+- Business Reporting
+- Exploratory Data Analysis
+- Python Automation
+- Power BI Dashboard Development
+- Excel Reporting
+- Data Visualization
+
+---
+
+# 🌍 Open To
+
+✅ Remote Data Analyst Roles
+
+✅ Business Intelligence Roles
+
+✅ Python Developer Roles
+
+✅ Data Science Internships
+
+✅ Global Freelance Opportunities
+
+---
+
+
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-  <img src="https://img.shields.io/github/followers/Daniyal07420?label=Followers&style=for-the-badge&color=2ea44f" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Daniyal07420/FIFA-World-Cup-2022-Player-Performance-Analysis?style=for-the-badge&color=dfb317" alt="Project Stars" />
+<img src="https://github-profile-trophy.vercel.app/?username=Daniyal07420&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+
 </p>
 
 ---
 
-<!-- DYNAMIC SKILLS & ACTIVITY CARD -->
-# ⚡ GitHub Profile Insights
-![Daniyal's GitHub Metrics](https://metrics.lecoq.io/Daniyal07420?template=classic&base=header,activity,community&config.timezone=Asia/Karachi)
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daniyal07420&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
 
@@ -180,33 +317,92 @@ Python • Pandas • NumPy • Matplotlib • Seaborn
 
 </p>
 
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Daniyal07420/Daniyal07420/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> ⚠️ Snake Animation tab show hogi jab hum GitHub Actions setup karenge.
+
+---
+
+# 📊 GitHub Highlights
+
+<div align="center">
+
+| Achievement | Status |
+|-------------|--------|
+| 📂 Public Repositories | 15+ |
+| 🐍 Python Projects | ✔ |
+| 📊 Power BI Dashboards | ✔ |
+| 📈 Data Analytics Projects | ✔ |
+| 💻 SQL Projects | ✔ |
+| 🌍 Open Source Learning | ✔ |
+| 🏆 micro1 Certified | ✔ |
+| 🎓 BBIT Student | ✔ |
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- 🤖 Machine Learning
+- 🧠 Data Science
+- ☁️ Data Engineering
+- ⚡ Advanced SQL
+- 📊 Advanced Power BI
+- 🏗 ETL Pipelines
+- 🐍 Advanced Python
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Secure an International Remote Data Analyst Role
+- ✅ Contribute to Open Source Projects
+- ✅ Build 25+ Professional Data Analytics Projects
+- ✅ Master Machine Learning
+- ✅ Earn Advanced Data Certifications
+- ✅ Grow GitHub & LinkedIn Presence
 
 ---
 
 # 📫 Let's Connect
 
-📧 **Email**
+<p align="center">
 
-[daniyalinfo.com@gmail.com](mailto:daniyalinfo.com@gmail.com)
+<a href="mailto:daniyalinfo.com@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🌐 **Portfolio**
+<a href="https://www.linkedin.com/in/rana-daniyal-720a43379/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-https://www.datascienceportfol.io/daniyalinfocom
+<a href="https://github.com/Daniyal07420">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-💼 **LinkedIn**
+<a href="https://www.datascienceportfol.io/daniyalinfocom">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
-https://www.linkedin.com/in/rana-daniyal-720a43379/
-
-🐙 **GitHub**
-
-https://github.com/Daniyal07420
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+# ⭐ Thanks for Visiting!
 
-*"Turning raw data into actionable insights through analytics, visualization, and continuous learning."*
+### "Transforming data into actionable business insights."
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=4000&pause=1000&color=36BCF7&center=true&width=500&lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+amazing!;Always+learning.+Always+growing."/>
 
 </div>
