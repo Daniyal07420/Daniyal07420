@@ -298,17 +298,6 @@ Topics Covered:
 
 ---
 
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Daniyal07420&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 # 📈 Contribution Activity
 
 <p align="center">
@@ -316,18 +305,6 @@ Topics Covered:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniyal07420&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Daniyal07420/Daniyal07420/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-> ⚠️ Snake Animation tab show hogi jab hum GitHub Actions setup karenge.
 
 ---
 
