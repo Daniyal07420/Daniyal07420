@@ -143,85 +143,28 @@ https://github.com/Daniyal07420/FIFA-World-Cup-2022-Player-Performance-Analysis
 
 ---
 
-## 🌍 2. Global Economic Performance Dashboard
+## 🏦 2. Bank Marketing Campaign Analysis
 
-Interactive Power BI dashboard analyzing global economic indicators to identify growth trends and support business decision-making.
-
-### 🔹 Key Highlights
-
-- GDP Analysis
-- Inflation Trends
-- Population Insights
-- Interactive Power BI Dashboard
-- KPI Reporting
-- Business Intelligence
-
-**Tech Stack**
-
-`Power BI` `Excel` `DAX` `Power Query`
-
----
-
-## 🏦 3. Bank Marketing Campaign Analysis
-
-End-to-end data analytics project focused on customer behavior analysis and campaign performance.
+📊 End-to-end banking marketing campaign analysis using **Python** and **Power BI** to uncover customer behavior, campaign performance, and key business insights for improving customer subscription rates.
 
 ### 🔹 Key Highlights
 
-- Data Cleaning
-- Feature Engineering
-- Customer Segmentation
-- Campaign Analysis
-- Data Visualization
+✔ Data Loading & Preprocessing  
+✔ Data Cleaning & Feature Engineering  
+✔ Exploratory Data Analysis (EDA)  
+✔ Advanced Business Analysis  
+✔ Customer Segmentation  
+✔ KPI Analysis & Business Reporting  
+✔ Interactive Power BI Dashboard  
+✔ Business Insights & Recommendations  
 
-**Tech Stack**
+### 🛠 Tech Stack
 
-`Python` `Pandas` `NumPy`
+Python • Pandas • NumPy • Matplotlib • Seaborn • Power BI
 
----
+### 🔗 Repository
 
-## 📈 4. Customer Churn Analysis
-
-Customer retention analytics project to identify factors influencing customer churn and provide actionable business recommendations.
-
-### 🔹 Key Highlights
-
-- Churn Analysis
-- Data Visualization
-- KPI Dashboard
-- Business Insights
-
-**Tech Stack**
-
-`Python` `Power BI`
-
----
-
-## 🛒 5. Superstore Sales Dashboard
-
-Professional sales dashboard built in Power BI to monitor sales performance and profitability.
-
-### 🔹 Dashboard Includes
-
-- Sales KPIs
-- Regional Performance
-- Product Category Analysis
-- Profit Analysis
-- Customer Insights
-
-**Tech Stack**
-
-`Power BI` `Excel`
-
----
-
-## 🧠 6. Student Depression Analysis
-
-Data analysis project exploring factors affecting student mental well-being using statistical analysis and visualizations.
-
-**Tech Stack**
-
-`Python` `Pandas` `Matplotlib`
+https://github.com/Daniyal07420/Bank-Marketing-Campaign-Analysis
 
 ---
 
